@@ -52,3 +52,5 @@
 [19:58:37] [Server thread/INFO]: Amalick_Yoaz lost connection: Disconnected
 [19:58:37] [Server thread/INFO]: Amalick_Yoaz left the game
 [19:58:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11633ms or 232 ticks behind
+[20:28:43] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[20:28:43] [RCON Client /127.0.0.1 #2/INFO]: Thread RCON Client /127.0.0.1 shutting down
