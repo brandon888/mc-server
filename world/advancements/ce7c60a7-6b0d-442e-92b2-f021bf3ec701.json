@@ -203,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2022-05-31 20:35:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2022-05-24 18:27:24 +0000"
@@ -841,6 +847,7 @@
       "minecraft:piglin_brute": "2022-05-19 22:58:19 +0000",
       "minecraft:creeper": "2022-05-20 16:18:25 +0000",
       "minecraft:slime": "2022-05-20 22:17:38 +0000",
+      "minecraft:evoker": "2022-05-31 22:37:43 +0000",
       "minecraft:phantom": "2022-05-20 14:17:54 +0000",
       "minecraft:zombified_piglin": "2022-05-18 18:56:50 +0000",
       "minecraft:witch": "2022-05-22 19:06:59 +0000",
@@ -848,6 +855,7 @@
       "minecraft:shulker": "2022-05-28 03:40:07 +0000",
       "minecraft:piglin": "2022-05-18 18:50:03 +0000",
       "minecraft:enderman": "2022-05-20 22:35:41 +0000",
+      "minecraft:vex": "2022-05-31 22:38:06 +0000",
       "minecraft:zombie": "2022-05-17 01:49:10 +0000",
       "minecraft:drowned": "2022-05-18 20:05:09 +0000",
       "minecraft:zombie_villager": "2022-05-21 18:14:23 +0000"
@@ -2412,6 +2420,7 @@
       "porkchop": "2022-05-22 15:24:38 +0000",
       "apple": "2022-05-17 02:54:38 +0000",
       "bread": "2022-05-17 16:26:07 +0000",
+      "golden_apple": "2022-05-31 22:39:44 +0000",
       "salmon": "2022-05-17 03:16:08 +0000",
       "melon_slice": "2022-05-17 18:39:30 +0000",
       "golden_carrot": "2022-05-19 22:59:42 +0000",
