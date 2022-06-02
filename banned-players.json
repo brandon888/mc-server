@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "uuid": "d3593391-fda2-4cff-bf36-546385bd1ddc",
+    "name": "Amalick_Yoaz",
+    "created": "2022-06-02 06:01:36 +0000",
+    "source": "Rcon",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  }
+]

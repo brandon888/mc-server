@@ -1985,12 +1985,13 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2022-06-02 01:56:01 +0000",
       "minecraft:nether_wastes": "2022-05-21 19:42:32 +0000",
       "minecraft:soul_sand_valley": "2022-06-01 21:02:33 +0000",
       "minecraft:warped_forest": "2022-05-17 21:12:20 +0000",
       "minecraft:basalt_deltas": "2022-05-28 01:50:32 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
@@ -2337,6 +2338,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2022-05-17 02:26:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2022-06-02 01:54:27 +0000"
     },
     "done": true
   },
