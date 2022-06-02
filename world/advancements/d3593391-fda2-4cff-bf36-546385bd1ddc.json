@@ -1986,6 +1986,7 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2022-05-21 19:42:32 +0000",
+      "minecraft:soul_sand_valley": "2022-06-01 21:02:33 +0000",
       "minecraft:warped_forest": "2022-05-17 21:12:20 +0000",
       "minecraft:basalt_deltas": "2022-05-28 01:50:32 +0000"
     },

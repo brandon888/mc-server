@@ -4,5 +4,11 @@
     "name": "Betdge",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "ce7c60a7-6b0d-442e-92b2-f021bf3ec701",
+    "name": "misoparty",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
