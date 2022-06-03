@@ -1633,6 +1633,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2022-05-29 13:39:11 +0000",
       "minecraft:old_growth_pine_taiga": "2022-05-28 01:21:25 +0000",
+      "minecraft:mushroom_fields": "2022-06-02 22:10:56 +0000",
       "minecraft:taiga": "2022-05-28 01:17:20 +0000",
       "minecraft:deep_ocean": "2022-05-27 23:59:30 +0000",
       "minecraft:sunflower_plains": "2022-05-27 23:40:44 +0000",
@@ -2346,6 +2347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2022-06-02 22:11:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
     "criteria": {
       "has_end_stone_brick": "2022-05-28 15:18:16 +0000"
@@ -2823,6 +2830,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2022-05-28 02:07:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2022-06-02 22:11:12 +0000"
     },
     "done": true
   },
