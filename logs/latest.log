@@ -44,3 +44,296 @@
 [01:42:23] [RCON Client /127.0.0.1 #19/INFO]: Thread RCON Client /127.0.0.1 shutting down
 [01:42:43] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
 [01:42:43] [RCON Client /127.0.0.1 #20/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[01:51:54] [User Authenticator #26/INFO]: UUID of player HighOnNoodles is cf4824cc-0d19-4f76-b304-1d1f0ed04688
+[01:51:54] [Server thread/INFO]: HighOnNoodles[/113.28.45.212:62278] logged in with entity id 392019 at (-128.92772599022356, 27.5625, 158.05501385249332)
+[01:51:54] [Server thread/INFO]: HighOnNoodles joined the game
+[01:52:19] [Server thread/INFO]: <HighOnNoodles> wait bill
+[01:52:23] [Server thread/INFO]: <HighOnNoodles> how do i get out of ur base
+[01:52:28] [Server thread/INFO]: <misoparty> u need elytra
+[01:52:37] [Server thread/INFO]: <HighOnNoodles> out the place we came in?
+[01:52:40] [Server thread/INFO]: <misoparty> ya
+[01:53:15] [Server thread/INFO]: <HighOnNoodles> also for mending
+[01:53:21] [Server thread/INFO]: <HighOnNoodles> i dont gotta hit with the item right
+[01:53:25] [Server thread/INFO]: <misoparty> ya
+[01:53:29] [Server thread/INFO]: <HighOnNoodles> i can j hit with sword and it will mend whatever
+[01:53:31] [Server thread/INFO]: <misoparty> you can hold it in your second hand
+[01:53:35] [Server thread/INFO]: <misoparty> ya
+[01:53:36] [Server thread/INFO]: <HighOnNoodles> oh i see
+[01:56:03] [Server thread/INFO]: <misoparty> ya
+[01:56:19] [Server thread/INFO]: <HighOnNoodles> we all j making bases now
+[01:56:25] [Server thread/INFO]: <misoparty> ya ig
+[01:56:27] [Server thread/INFO]: <misoparty> lol
+[01:57:35] [Server thread/INFO]: <misoparty> where are you
+[01:57:38] [Server thread/INFO]: <HighOnNoodles> nether
+[01:57:39] [Server thread/INFO]: <HighOnNoodles> gonna go
+[01:57:41] [Server thread/INFO]: <HighOnNoodles> end
+[01:57:47] [Server thread/INFO]: <misoparty> ok
+[01:57:50] [Server thread/INFO]: <misoparty> im so far away
+[01:57:53] [Server thread/INFO]: <misoparty> cba to fly lol
+[01:58:07] [Server thread/WARN]: HighOnNoodles moved too quickly! 10.562497574956069,-3.462179164492184,-13.491263636972917
+[01:58:19] [Server thread/WARN]: misoparty moved too quickly! 1.5672788236493034,-3.6267741428964513,-18.231080707300777
+[02:01:41] [Server thread/INFO]: [misoparty: Teleported misoparty to 120.500000, 64.000000, 2327.500000]
+[02:02:39] [Server thread/INFO]: HighOnNoodles lost connection: Disconnected
+[02:02:39] [Server thread/INFO]: HighOnNoodles left the game
+[02:02:56] [Server thread/INFO]: [misoparty: Applied effect Night Vision to misoparty]
+[02:03:20] [Server thread/INFO]: [misoparty: Applied effect Night Vision to misoparty]
+[02:05:34] [Server thread/INFO]: [misoparty: Set own game mode to Spectator Mode]
+[02:05:55] [Server thread/INFO]: [misoparty: Applied effect Night Vision to misoparty]
+[02:06:27] [Server thread/INFO]: [misoparty: Applied effect Night Vision to misoparty]
+[02:06:59] [Server thread/INFO]: [misoparty: Applied effect Night Vision to misoparty]
+[02:07:29] [Server thread/INFO]: [misoparty: Applied effect Night Vision to misoparty]
+[02:08:19] [User Authenticator #27/INFO]: UUID of player HighOnNoodles is cf4824cc-0d19-4f76-b304-1d1f0ed04688
+[02:08:19] [Server thread/INFO]: HighOnNoodles[/113.28.45.212:62344] logged in with entity id 409756 at (255.84924459948192, 1.0, -0.9780261043299094)
+[02:08:19] [Server thread/INFO]: HighOnNoodles joined the game
+[02:09:03] [Server thread/INFO]: [misoparty: Applied effect Night Vision to misoparty]
+[02:09:47] [Server thread/WARN]: HighOnNoodles moved too quickly! -16.866271141500206,-4.366439464893688,-0.09598151527213261
+[02:10:32] [Server thread/INFO]: <HighOnNoodles> im back if u need tp
+[02:10:37] [Server thread/INFO]: [misoparty: Teleported misoparty to 0.500000, 95.631819, 0.500000]
+[02:10:49] [Server thread/INFO]: [misoparty: Set own game mode to Survival Mode]
+[02:10:57] [Server thread/INFO]: <misoparty> im good now
+[02:11:25] [Server thread/INFO]: <HighOnNoodles> how do u mine ancient debris
+[02:11:28] [Server thread/INFO]: <HighOnNoodles> is it like y=13
+[02:11:49] [Server thread/INFO]: <misoparty> i made a mine if u wanna go to it
+[02:11:58] [Server thread/INFO]: [misoparty: Gave 2 [Bucket of Axolotl] to misoparty]
+[02:12:09] [Server thread/INFO]: <HighOnNoodles> bro im having trouble getting out
+[02:12:48] [Server thread/INFO]: <misoparty> ya sometimes its annoying
+[02:13:07] [Server thread/INFO]: <HighOnNoodles> whered u make the mine
+[02:14:28] [Server thread/INFO]: <HighOnNoodles> oh
+[02:14:31] [Server thread/INFO]: <misoparty> just press f3+g
+[02:14:36] [Server thread/INFO]: <misoparty> for chunk borders
+[02:14:39] [Server thread/INFO]: <misoparty> then mine along the lines
+[02:14:48] [Server thread/INFO]: <misoparty> 2x2
+[02:14:54] [Server thread/INFO]: <HighOnNoodles> i see
+[02:14:56] [Server thread/INFO]: <HighOnNoodles> 2x2?
+[02:14:59] [Server thread/INFO]: <misoparty> ive mined a lot so might have to start a new one
+[02:15:10] [Server thread/INFO]: <misoparty> ya you insta mine netherack so its ez
+[02:15:26] [Server thread/INFO]: <misoparty> just be careful for lava
+[02:15:35] [Server thread/INFO]: <HighOnNoodles> oki
+[02:16:32] [Server thread/INFO]: <HighOnNoodles> bruh gotta go on a call
+[02:16:33] [Server thread/INFO]: <HighOnNoodles> brb
+[02:16:35] [Server thread/INFO]: HighOnNoodles lost connection: Disconnected
+[02:16:35] [Server thread/INFO]: HighOnNoodles left the game
+[02:40:04] [Server thread/INFO]: [misoparty: Teleported misoparty to -89.444431, 69.000000, 145.453524]
+[02:40:14] [Server thread/INFO]: [misoparty: Teleported misoparty to 120.500000, 64.000000, 2327.500000]
+[02:43:07] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[02:43:07] [RCON Client /127.0.0.1 #21/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[02:43:39] [User Authenticator #28/INFO]: UUID of player Amalick_Yoaz is d3593391-fda2-4cff-bf36-546385bd1ddc
+[02:43:40] [Server thread/INFO]: Amalick_Yoaz[/98.116.188.27:51684] logged in with entity id 418153 at (-58.607008871027894, 63.612129607241826, 126.60332284545294)
+[02:43:40] [Server thread/INFO]: Amalick_Yoaz joined the game
+[02:48:00] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[02:48:00] [RCON Client /127.0.0.1 #22/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[02:48:07] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[02:48:07] [Server thread/INFO]: [Rcon: Teleported Amalick_Yoaz to misoparty]
+[02:48:07] [RCON Client /127.0.0.1 #23/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[02:50:13] [Server thread/INFO]: <misoparty> tf you want
+[02:50:17] [Server thread/INFO]: <Amalick_Yoaz> niggers in paris
+[02:50:21] [Server thread/INFO]: <Amalick_Yoaz> ur base
+[02:50:23] [Server thread/INFO]: <Amalick_Yoaz> is kinda dogshit
+[02:50:31] [Server thread/INFO]: <misoparty> u wish
+[02:50:38] [Server thread/INFO]: <Amalick_Yoaz> hop no apex
+[02:50:44] [Server thread/INFO]: <misoparty> what
+[02:50:47] [Server thread/INFO]: <Amalick_Yoaz> hop on apex
+[02:50:52] [Server thread/INFO]: <misoparty> i cant
+[02:50:53] [Server thread/INFO]: <misoparty> mac
+[02:50:54] [Server thread/INFO]: <Amalick_Yoaz> oh
+[02:51:00] [Server thread/INFO]: <misoparty> also im going to sleep now
+[02:51:02] [Server thread/INFO]: <Amalick_Yoaz> ok
+[02:51:06] [Server thread/INFO]: <misoparty> just gonna afk on the server overnight
+[02:51:13] [Server thread/INFO]: <misoparty> need like 3 stacks of bookshelves
+[02:51:16] [Server thread/INFO]: <misoparty> so need a lot of leather
+[02:53:03] [Server thread/INFO]: Amalick_Yoaz lost connection: Disconnected
+[02:53:03] [Server thread/INFO]: Amalick_Yoaz left the game
+[02:53:29] [User Authenticator #29/INFO]: UUID of player HighOnNoodles is cf4824cc-0d19-4f76-b304-1d1f0ed04688
+[02:53:29] [Server thread/INFO]: HighOnNoodles[/113.28.45.212:62683] logged in with entity id 424433 at (-32.69999998807907, 14.0, 78.9396057330902)
+[02:53:29] [Server thread/INFO]: HighOnNoodles joined the game
+[02:56:58] [Server thread/INFO]: <HighOnNoodles> how rare is ancient debris
+[02:57:47] [Server thread/INFO]: HighOnNoodles has made the advancement [Hidden in the Depths]
+[02:59:43] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-139, y=15, z=109} gj{x=-138, y=14, z=109}
+[02:59:43] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-139, y=15, z=109} gj{x=-138, y=14, z=109}
+[02:59:44] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-139, y=15, z=109} gj{x=-138, y=14, z=109}
+[02:59:44] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-139, y=15, z=109} gj{x=-138, y=14, z=109}
+[02:59:46] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-137, y=15, z=110} gj{x=-135, y=14, z=111}
+[02:59:46] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-137, y=15, z=110} gj{x=-135, y=14, z=111}
+[03:00:18] [User Authenticator #30/INFO]: UUID of player Amalick_Yoaz is d3593391-fda2-4cff-bf36-546385bd1ddc
+[03:00:18] [Server thread/INFO]: Amalick_Yoaz[/98.116.188.27:50524] logged in with entity id 428236 at (-123.63637300568513, 58.0, 182.63598076985733)
+[03:00:18] [Server thread/INFO]: Amalick_Yoaz joined the game
+[03:02:53] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[03:02:53] [Server thread/INFO]: [Rcon: Teleported Amalick_Yoaz to HighOnNoodles]
+[03:02:53] [RCON Client /127.0.0.1 #24/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[03:02:53] [Server thread/WARN]: Amalick_Yoaz moved too quickly! -69.65270108019013,-68.0,164.24406407590234
+[03:03:41] [Server thread/INFO]: HighOnNoodles has reached the goal [Postmortal]
+[03:04:15] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-92, y=14, z=167} gj{x=-92, y=13, z=168}
+[03:04:21] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-97, y=14, z=170} gj{x=-98, y=13, z=171}
+[03:04:21] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-97, y=14, z=170} gj{x=-98, y=13, z=171}
+[03:04:21] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-97, y=14, z=170} gj{x=-98, y=13, z=171}
+[03:04:21] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-97, y=14, z=170} gj{x=-98, y=13, z=171}
+[03:04:21] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-97, y=14, z=170} gj{x=-98, y=13, z=171}
+[03:04:21] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-97, y=14, z=170} gj{x=-98, y=13, z=171}
+[03:06:25] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=35, y=13, z=159} gj{x=34, y=13, z=159}
+[03:06:25] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=35, y=13, z=159} gj{x=34, y=13, z=159}
+[03:06:59] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=46, y=15, z=233} gj{x=46, y=14, z=236}
+[03:06:59] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=46, y=15, z=233} gj{x=46, y=14, z=236}
+[03:08:02] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=44, y=13, z=349} gj{x=43, y=13, z=350}
+[03:08:02] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=44, y=13, z=349} gj{x=43, y=13, z=350}
+[03:08:02] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=44, y=13, z=349} gj{x=43, y=13, z=350}
+[03:08:02] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=44, y=13, z=349} gj{x=43, y=13, z=350}
+[03:08:02] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=44, y=13, z=349} gj{x=43, y=13, z=350}
+[03:08:02] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=44, y=13, z=349} gj{x=43, y=13, z=350}
+[03:08:02] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=44, y=13, z=349} gj{x=43, y=13, z=350}
+[03:08:02] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=44, y=13, z=349} gj{x=43, y=13, z=350}
+[03:08:02] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=44, y=13, z=349} gj{x=43, y=13, z=350}
+[03:08:02] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=44, y=13, z=349} gj{x=43, y=13, z=350}
+[03:08:02] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=44, y=13, z=349} gj{x=43, y=13, z=350}
+[03:08:02] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=44, y=13, z=349} gj{x=43, y=13, z=350}
+[03:08:02] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=44, y=13, z=349} gj{x=43, y=13, z=350}
+[03:08:02] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=44, y=13, z=349} gj{x=43, y=13, z=350}
+[03:08:03] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=44, y=13, z=349} gj{x=43, y=13, z=350}
+[03:08:03] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=44, y=13, z=349} gj{x=43, y=13, z=350}
+[03:08:03] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=44, y=13, z=349} gj{x=43, y=13, z=350}
+[03:08:03] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=44, y=13, z=349} gj{x=43, y=13, z=350}
+[03:08:03] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=44, y=13, z=349} gj{x=43, y=13, z=350}
+[03:08:03] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=44, y=13, z=349} gj{x=43, y=13, z=350}
+[03:08:03] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=44, y=13, z=349} gj{x=43, y=13, z=350}
+[03:08:03] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=44, y=13, z=349} gj{x=43, y=13, z=350}
+[03:08:03] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=44, y=13, z=349} gj{x=43, y=13, z=350}
+[03:08:03] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=44, y=13, z=349} gj{x=43, y=13, z=350}
+[03:08:03] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=44, y=13, z=349} gj{x=43, y=13, z=350}
+[03:08:03] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=44, y=13, z=349} gj{x=43, y=13, z=350}
+[03:08:03] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=44, y=13, z=349} gj{x=43, y=13, z=350}
+[03:08:03] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=44, y=13, z=349} gj{x=43, y=13, z=350}
+[03:08:03] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=44, y=13, z=349} gj{x=43, y=13, z=350}
+[03:08:03] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=44, y=13, z=349} gj{x=43, y=13, z=350}
+[03:08:03] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=44, y=13, z=349} gj{x=43, y=13, z=350}
+[03:08:03] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=44, y=13, z=349} gj{x=43, y=13, z=350}
+[03:08:06] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=39, y=15, z=350} gj{x=39, y=15, z=351}
+[03:08:06] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=39, y=15, z=350} gj{x=39, y=15, z=351}
+[03:08:19] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=34, y=14, z=356} gj{x=34, y=15, z=355}
+[03:08:19] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=34, y=14, z=356} gj{x=34, y=15, z=355}
+[03:08:19] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=34, y=14, z=356} gj{x=34, y=15, z=355}
+[03:08:19] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=34, y=14, z=356} gj{x=34, y=15, z=355}
+[03:08:19] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=34, y=14, z=356} gj{x=34, y=15, z=355}
+[03:08:19] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=34, y=14, z=356} gj{x=34, y=15, z=355}
+[03:08:19] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=34, y=14, z=356} gj{x=34, y=15, z=355}
+[03:08:19] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=34, y=14, z=356} gj{x=34, y=15, z=355}
+[03:08:19] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=34, y=14, z=356} gj{x=34, y=15, z=355}
+[03:08:19] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=34, y=14, z=356} gj{x=34, y=15, z=355}
+[03:08:19] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=34, y=14, z=356} gj{x=34, y=15, z=355}
+[03:08:19] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=34, y=14, z=356} gj{x=34, y=15, z=355}
+[03:08:20] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=34, y=14, z=356} gj{x=34, y=15, z=355}
+[03:08:20] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=34, y=14, z=356} gj{x=34, y=15, z=355}
+[03:08:20] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=34, y=14, z=356} gj{x=34, y=15, z=355}
+[03:08:20] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=34, y=14, z=356} gj{x=34, y=15, z=355}
+[03:08:20] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=34, y=14, z=356} gj{x=34, y=15, z=355}
+[03:08:20] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=34, y=14, z=356} gj{x=34, y=15, z=355}
+[03:08:20] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=34, y=14, z=356} gj{x=34, y=15, z=355}
+[03:08:20] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=34, y=14, z=356} gj{x=34, y=15, z=355}
+[03:08:48] [Server thread/INFO]: Amalick_Yoaz lost connection: Disconnected
+[03:08:48] [Server thread/INFO]: Amalick_Yoaz left the game
+[03:08:48] [Server thread/WARN]: handleDisconnection() called twice
+[03:09:28] [Server thread/INFO]: <HighOnNoodles> bro bill
+[03:09:49] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=65, y=15, z=388} gj{x=65, y=15, z=389}
+[03:09:49] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=65, y=15, z=388} gj{x=65, y=15, z=389}
+[03:10:02] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=65, y=15, z=407} gj{x=65, y=14, z=409}
+[03:10:02] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=65, y=15, z=407} gj{x=65, y=14, z=409}
+[03:11:04] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=-1, y=14, z=442} gj{x=-1, y=14, z=443}
+[03:12:46] [Server thread/INFO]: <misoparty> what
+[03:12:56] [Server thread/INFO]: <HighOnNoodles> i went through a whole pick
+[03:12:58] [Server thread/INFO]: <HighOnNoodles> found 1
+[03:13:08] [Server thread/INFO]: <misoparty> yeah its kinda fucked
+[03:13:14] [Server thread/INFO]: <HighOnNoodles> what can i make with 1
+[03:13:19] [Server thread/INFO]: <misoparty> and u need four to upgrade a tool
+[03:13:20] [Server thread/INFO]: <HighOnNoodles> j one upgrade?
+[03:13:23] [Server thread/INFO]: <HighOnNoodles> ....
+[03:13:30] [Server thread/INFO]: <misoparty> u need four ancient debris
+[03:13:31] [Server thread/INFO]: <HighOnNoodles> u might need to tp me
+[03:13:34] [Server thread/INFO]: <HighOnNoodles> in a bit
+[03:13:38] [Server thread/INFO]: <HighOnNoodles> idk where i am anymore
+[03:13:51] [Server thread/INFO]: <misoparty> o
+[03:13:52] [Server thread/INFO]: <misoparty> ok
+[03:13:57] [Server thread/INFO]: <misoparty> im at hoglin farm tho
+[03:14:05] [Server thread/INFO]: <HighOnNoodles> issok i have elytra
+[03:14:11] [Server thread/INFO]: <misoparty> ok
+[03:16:18] [Server thread/INFO]: <HighOnNoodles> yeh i give up
+[03:16:20] [Server thread/INFO]: <HighOnNoodles> can u tp
+[03:16:47] [Server thread/INFO]: [misoparty: Teleported HighOnNoodles to misoparty]
+[03:17:03] [Server thread/INFO]: <HighOnNoodles> oh wait
+[03:17:06] [Server thread/INFO]: <HighOnNoodles> u meant hoglin
+[03:17:09] [Server thread/INFO]: <misoparty> yea
+[03:17:09] [Server thread/INFO]: <HighOnNoodles> i thot in the
+[03:17:11] [Server thread/INFO]: <HighOnNoodles> overworld
+[03:17:13] [Server thread/INFO]: <HighOnNoodles> welp
+[03:17:14] [Server thread/INFO]: <misoparty> nope
+[03:17:19] [Server thread/INFO]: <misoparty> just go through the portal
+[03:17:23] [Server thread/INFO]: <misoparty> then u can elytra
+[03:17:27] [Server thread/INFO]: <HighOnNoodles> i dont see a portal
+[03:17:31] [Server thread/INFO]: <misoparty> at the bottom
+[03:17:41] [Server thread/INFO]: <misoparty> use ur elytra to get down
+[03:17:49] [Server thread/INFO]: <HighOnNoodles> i dont trust myself
+[03:17:55] [Server thread/INFO]: <misoparty> ol
+[03:17:56] [Server thread/INFO]: <misoparty> lol
+[03:18:06] [Server thread/INFO]: <misoparty> can u check
+[03:18:09] [Server thread/INFO]: <misoparty> how much leather
+[03:18:17] [Server thread/INFO]: <misoparty> is in the chests
+[03:18:21] [Server thread/INFO]: <HighOnNoodles> 50
+[03:18:33] [Server thread/INFO]: <misoparty> sadge
+[03:18:36] [Server thread/INFO]: <misoparty> just 50?
+[03:19:07] [Server thread/WARN]: HighOnNoodles moved too quickly! 17.2779209065681,-1.7269115246557192,3.063285089301644
+[03:19:27] [Server thread/WARN]: HighOnNoodles moved too quickly! -0.43986191058501944,-2.000440366239559,-18.07020145442857
+[03:19:47] [Server thread/WARN]: HighOnNoodles moved too quickly! -7.651104069746992,-1.9444062494684715,-16.27979199474271
+[03:20:27] [Server thread/WARN]: HighOnNoodles moved too quickly! -0.1980322400891481,2.8383674983691662,-17.31533620689129
+[03:20:47] [Server thread/WARN]: HighOnNoodles moved too quickly! -7.591404257170211,-2.0458236569764665,-16.37366779671558
+[03:29:06] [Server thread/INFO]: HighOnNoodles lost connection: Disconnected
+[03:29:06] [Server thread/INFO]: HighOnNoodles left the game
+[03:57:09] [User Authenticator #31/INFO]: UUID of player Amalick_Yoaz is d3593391-fda2-4cff-bf36-546385bd1ddc
+[03:57:09] [Server thread/INFO]: Amalick_Yoaz[/98.116.188.27:58158] logged in with entity id 449376 at (36.02294543809969, 14.0, 356.42359694600833)
+[03:57:09] [Server thread/INFO]: Amalick_Yoaz joined the game
+[04:18:39] [Server thread/INFO]: Amalick_Yoaz lost connection: Disconnected
+[04:18:39] [Server thread/INFO]: Amalick_Yoaz left the game
+[05:04:29] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[05:04:29] [RCON Client /127.0.0.1 #25/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[05:45:24] [Server thread/INFO]: misoparty lost connection: Timed out
+[05:45:24] [Server thread/INFO]: misoparty left the game
+[05:45:24] [Server thread/WARN]: handleDisconnection() called twice
+[06:01:25] [User Authenticator #32/INFO]: UUID of player HighOnNoodles is cf4824cc-0d19-4f76-b304-1d1f0ed04688
+[06:01:26] [Server thread/INFO]: HighOnNoodles[/113.28.45.212:63082] logged in with entity id 463661 at (-89.06900974166768, 71.0, 157.94935382412982)
+[06:01:26] [Server thread/INFO]: HighOnNoodles joined the game
+[06:05:57] [Server thread/INFO]: HighOnNoodles has made the advancement [A Terrible Fortress]
+[06:06:26] [Server thread/WARN]: HighOnNoodles moved too quickly! 3.7156310977286466,-11.41323271645642,13.44739713219542
+[06:06:43] [Server thread/WARN]: HighOnNoodles moved wrongly!
+[06:14:07] [Server thread/WARN]: HighOnNoodles moved too quickly! 10.279386435661934,-0.2046003784434558,0.11953597017304407
+[06:25:08] [Server thread/INFO]: HighOnNoodles lost connection: Disconnected
+[06:25:08] [Server thread/INFO]: HighOnNoodles left the game
+[09:18:39] [User Authenticator #33/INFO]: UUID of player misoparty is ce7c60a7-6b0d-442e-92b2-f021bf3ec701
+[09:18:40] [Server thread/INFO]: misoparty[/131.231.105.144:54904] logged in with entity id 472572 at (17.046536584213317, 219.0, 291.9933814721226)
+[09:18:40] [Server thread/INFO]: misoparty joined the game
+[10:35:19] [Server thread/INFO]: misoparty lost connection: Disconnected
+[10:35:19] [Server thread/INFO]: misoparty left the game
+[17:10:27] [User Authenticator #34/INFO]: UUID of player misoparty is ce7c60a7-6b0d-442e-92b2-f021bf3ec701
+[17:10:27] [Server thread/INFO]: misoparty[/131.231.105.144:59200] logged in with entity id 487948 at (-127.16634036958361, 27.5, 157.7630169772105)
+[17:10:27] [Server thread/INFO]: misoparty joined the game
+[17:31:56] [Server thread/INFO]: [misoparty: Set own game mode to Spectator Mode]
+[17:32:29] [Server thread/INFO]: [misoparty: Set own game mode to Survival Mode]
+[18:11:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[19:04:43] [Server thread/WARN]: misoparty was kicked for floating too long!
+[19:04:43] [Server thread/INFO]: misoparty lost connection: Flying is not enabled on this server
+[19:04:43] [Server thread/INFO]: misoparty left the game
+[19:04:50] [User Authenticator #35/INFO]: UUID of player misoparty is ce7c60a7-6b0d-442e-92b2-f021bf3ec701
+[19:04:50] [Server thread/INFO]: misoparty[/131.231.105.144:60194] logged in with entity id 505811 at (-106.73597815294724, 28.00133597911215, 158.53334559747069)
+[19:04:50] [Server thread/INFO]: misoparty joined the game
+[19:05:36] [Server thread/WARN]: misoparty was kicked for floating too long!
+[19:05:36] [Server thread/INFO]: misoparty lost connection: Flying is not enabled on this server
+[19:05:36] [Server thread/INFO]: misoparty left the game
+[19:06:02] [User Authenticator #36/INFO]: UUID of player misoparty is ce7c60a7-6b0d-442e-92b2-f021bf3ec701
+[19:06:02] [Server thread/INFO]: misoparty[/131.231.105.144:60248] logged in with entity id 506136 at (-97.62863492567325, 27.753199980521202, 158.36419459848562)
+[19:06:02] [Server thread/INFO]: misoparty joined the game
+[19:06:25] [Server thread/WARN]: misoparty was kicked for floating too long!
+[19:06:25] [Server thread/INFO]: misoparty lost connection: Flying is not enabled on this server
+[19:06:25] [Server thread/INFO]: misoparty left the game
+[19:08:58] [User Authenticator #37/INFO]: UUID of player misoparty is ce7c60a7-6b0d-442e-92b2-f021bf3ec701
+[19:08:58] [Server thread/INFO]: misoparty[/131.231.105.144:60453] logged in with entity id 506435 at (-62.34054826485431, 31.03978308483216, 158.5134627741562)
+[19:08:58] [Server thread/INFO]: misoparty joined the game
+[19:09:41] [Server thread/WARN]: misoparty moved too quickly! -9.933098702618878,-2.9361063346356993,0.049009249951694756
+[19:09:53] [Server thread/WARN]: misoparty moved too quickly! 10.170171348100482,-0.7539862017387691,-0.03391016943049863
+[19:10:06] [Server thread/WARN]: misoparty was kicked for floating too long!
+[19:10:06] [Server thread/INFO]: misoparty lost connection: Flying is not enabled on this server
+[19:10:06] [Server thread/INFO]: misoparty left the game

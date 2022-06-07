@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2022-06-07 17:18:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2022-05-17 03:46:56 +0000"
@@ -572,6 +578,12 @@
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2022-05-17 17:49:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2022-06-07 17:18:20 +0000"
     },
     "done": true
   },
@@ -1248,6 +1260,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2022-06-07 17:18:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_candle": {
     "criteria": {
       "has_cyan_dye": "2022-06-07 01:31:09 +0000"
@@ -1754,6 +1772,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2022-06-07 01:54:41 +0000",
       "minecraft:taiga": "2022-05-28 23:57:17 +0000",
       "minecraft:deep_ocean": "2022-05-21 20:43:02 +0000",
       "minecraft:sunflower_plains": "2022-05-17 01:42:00 +0000",
@@ -1770,6 +1789,7 @@
       "minecraft:lukewarm_ocean": "2022-05-21 20:33:12 +0000",
       "minecraft:stony_shore": "2022-05-21 21:02:43 +0000",
       "minecraft:dripstone_caves": "2022-05-17 01:51:00 +0000",
+      "minecraft:grove": "2022-06-07 01:54:55 +0000",
       "minecraft:cold_ocean": "2022-05-28 02:57:56 +0000",
       "minecraft:forest": "2022-05-18 00:22:19 +0000",
       "minecraft:lush_caves": "2022-05-18 18:43:27 +0000",
@@ -1780,6 +1800,7 @@
       "minecraft:warm_ocean": "2022-05-22 00:39:18 +0000",
       "minecraft:deep_lukewarm_ocean": "2022-05-21 21:30:05 +0000",
       "minecraft:flower_forest": "2022-05-17 01:38:31 +0000",
+      "minecraft:frozen_peaks": "2022-06-07 01:54:57 +0000",
       "minecraft:old_growth_birch_forest": "2022-05-22 00:32:04 +0000",
       "minecraft:meadow": "2022-05-17 01:42:22 +0000",
       "minecraft:savanna": "2022-05-19 18:30:45 +0000",
@@ -2027,6 +2048,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2022-06-07 17:18:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2022-05-26 01:11:13 +0000"
@@ -2136,6 +2163,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2022-05-19 22:18:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2022-06-07 17:18:20 +0000"
     },
     "done": true
   },
@@ -2818,6 +2851,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2022-06-07 17:18:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2022-05-17 17:45:00 +0000"
@@ -3024,6 +3063,12 @@
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2022-05-21 20:58:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2022-06-07 17:18:20 +0000"
     },
     "done": true
   },
@@ -3519,6 +3564,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-06-07 17:18:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2022-05-17 01:45:26 +0000"
@@ -3642,6 +3693,12 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2022-05-20 22:17:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2022-06-07 17:18:20 +0000"
     },
     "done": true
   },
