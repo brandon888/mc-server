@@ -629,6 +629,7 @@
       "minecraft:spider": "2022-05-25 04:38:26 +0000",
       "minecraft:creeper": "2022-05-25 04:55:06 +0000",
       "minecraft:phantom": "2022-05-26 02:51:23 +0000",
+      "minecraft:zombified_piglin": "2022-06-06 05:17:31 +0000",
       "minecraft:shulker": "2022-05-30 04:22:29 +0000",
       "minecraft:enderman": "2022-05-30 04:13:02 +0000",
       "minecraft:endermite": "2022-05-30 04:16:09 +0000",
@@ -1774,6 +1775,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2022-06-07 01:37:43 +0000",
       "cooked_beef": "2022-05-26 03:48:57 +0000",
       "cooked_cod": "2022-05-30 23:07:52 +0000",
       "bread": "2022-05-26 04:03:04 +0000",

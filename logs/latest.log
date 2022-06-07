@@ -1,25 +1,46 @@
-[00:22:21] [User Authenticator #9/INFO]: UUID of player misoparty is ce7c60a7-6b0d-442e-92b2-f021bf3ec701
-[00:22:21] [Server thread/INFO]: misoparty[/131.231.105.144:63703] logged in with entity id 162470 at (-113.76383765833167, 71.0, 165.12605008303177)
-[00:22:21] [Server thread/INFO]: misoparty joined the game
-[00:37:18] [Server thread/INFO]: misoparty lost connection: Disconnected
-[00:37:18] [Server thread/INFO]: misoparty left the game
-[01:28:50] [User Authenticator #10/INFO]: UUID of player misoparty is ce7c60a7-6b0d-442e-92b2-f021bf3ec701
-[01:28:50] [Server thread/INFO]: misoparty[/131.231.105.144:49536] logged in with entity id 174192 at (-402.18718402742536, 53.0, 167.7840405049543)
-[01:28:50] [Server thread/INFO]: misoparty joined the game
-[01:57:32] [Server thread/INFO]: [misoparty: Teleported misoparty to -136.425000, 73.000000, 179.575000]
-[02:00:28] [Server thread/INFO]: misoparty lost connection: Disconnected
-[02:00:28] [Server thread/INFO]: misoparty left the game
-[04:30:09] [User Authenticator #11/INFO]: UUID of player HighOnNoodles is cf4824cc-0d19-4f76-b304-1d1f0ed04688
-[04:30:09] [Server thread/INFO]: HighOnNoodles[/98.116.188.27:55489] logged in with entity id 179242 at (-117.88295095437934, 59.0, 185.4600127699518)
-[04:30:09] [Server thread/INFO]: HighOnNoodles joined the game
-[04:33:22] [Server thread/INFO]: HighOnNoodles lost connection: Disconnected
-[04:33:22] [Server thread/INFO]: HighOnNoodles left the game
-[13:31:02] [User Authenticator #12/INFO]: UUID of player bc25 is 7495ab80-7b6d-44c1-b2e9-60f02b8631d4
-[13:31:02] [Server thread/INFO]: bc25[/73.218.79.123:49797] logged in with entity id 180214 at (-747.4005077935785, 69.0, -680.512756801679)
-[13:31:02] [Server thread/INFO]: bc25 joined the game
-[13:31:46] [Server thread/INFO]: <bc25> adddd
-[13:36:44] [Server thread/INFO]: <bc25> 1800 522
-[13:37:00] [Server thread/INFO]: <bc25> 225 65 in nether
-[13:44:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3805ms or 76 ticks behind
-[14:04:13] [Server thread/INFO]: bc25 lost connection: Disconnected
-[14:04:13] [Server thread/INFO]: bc25 left the game
+[00:22:10] [Server thread/INFO]: misoparty lost connection: Disconnected
+[00:22:10] [Server thread/INFO]: misoparty left the game
+[00:27:26] [User Authenticator #24/INFO]: UUID of player misoparty is ce7c60a7-6b0d-442e-92b2-f021bf3ec701
+[00:27:26] [Server thread/INFO]: misoparty[/131.231.105.144:49830] logged in with entity id 366709 at (-107.8932795398937, 27.0, 158.599742517622)
+[00:27:26] [Server thread/INFO]: misoparty joined the game
+[00:45:57] [Server thread/INFO]: misoparty experienced kinetic energy
+[00:46:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[01:26:58] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[01:26:58] [RCON Client /127.0.0.1 #18/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[01:30:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2091ms or 41 ticks behind
+[01:35:55] [User Authenticator #25/INFO]: UUID of player HighOnNoodles is cf4824cc-0d19-4f76-b304-1d1f0ed04688
+[01:35:55] [Server thread/INFO]: HighOnNoodles[/113.28.45.212:62229] logged in with entity id 387411 at (-84.71251237915014, 71.0, 195.13010041881304)
+[01:35:55] [Server thread/INFO]: HighOnNoodles joined the game
+[01:36:05] [Server thread/INFO]: <misoparty> yo
+[01:36:09] [Server thread/INFO]: <HighOnNoodles> wag1
+[01:36:21] [Server thread/INFO]: <HighOnNoodles> bro how do u play on a mac
+[01:36:24] [Server thread/INFO]: <HighOnNoodles> this shit aids
+[01:36:28] [Server thread/INFO]: <misoparty> whats bad
+[01:36:32] [Server thread/INFO]: <misoparty> i have good fps
+[01:36:34] [Server thread/INFO]: <HighOnNoodles> j overal feel
+[01:36:47] [Server thread/INFO]: <misoparty> i haven't experienced pc in so long
+[01:36:50] [Server thread/INFO]: <misoparty> so used to mac now
+[01:37:01] [Server thread/INFO]: <HighOnNoodles> where r u
+[01:37:18] [Server thread/INFO]: <misoparty> working on my base
+[01:37:35] [Server thread/INFO]: <HighOnNoodles> where is it?
+[01:38:28] [Server thread/INFO]: <misoparty> come look
+[01:38:36] [Server thread/INFO]: <misoparty> i need glass first
+[01:38:47] [Server thread/INFO]: <HighOnNoodles> i might go yeet some ancient debris
+[01:38:49] [Server thread/INFO]: <HighOnNoodles> later
+[01:38:54] [Server thread/INFO]: <misoparty> ya takes a long time
+[01:38:55] [Server thread/INFO]: <misoparty> but worth
+[01:38:59] [Server thread/INFO]: <misoparty> cus then it doesnt burn in lava
+[01:39:03] [Server thread/INFO]: <misoparty> here
+[01:39:14] [Server thread/INFO]: <HighOnNoodles> nigga
+[01:39:17] [Server thread/INFO]: <HighOnNoodles> WTF
+[01:39:19] [Server thread/INFO]: <misoparty> LMAO
+[01:39:21] [Server thread/INFO]: <misoparty> ITS OP right
+[01:39:26] [Server thread/INFO]: <HighOnNoodles> YO
+[01:40:08] [Server thread/INFO]: <HighOnNoodles> try hard
+[01:40:45] [Server thread/INFO]: <HighOnNoodles> brb
+[01:40:46] [Server thread/INFO]: HighOnNoodles lost connection: Disconnected
+[01:40:46] [Server thread/INFO]: HighOnNoodles left the game
+[01:42:23] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[01:42:23] [RCON Client /127.0.0.1 #19/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[01:42:43] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[01:42:43] [RCON Client /127.0.0.1 #20/INFO]: Thread RCON Client /127.0.0.1 shutting down
