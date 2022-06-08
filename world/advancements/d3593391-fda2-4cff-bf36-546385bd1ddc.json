@@ -4104,7 +4104,7 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
-      "textures/entity/cat/black.png": "2022-05-20 19:42:00 +0000"
+      "minecraft:black": "2022-05-20 19:42:00 +0000"
     },
     "done": false
   },
@@ -4216,5 +4216,5 @@
     },
     "done": true
   },
-  "DataVersion": 2975
+  "DataVersion": 3105
 }

@@ -1,11 +1,55 @@
-[02:14:49] [Server thread/INFO]: Villager bnw['Librarian'/171, l='ServerLevel[world]', x=-114.64, y=64.00, z=131.30] died, message: 'Librarian was slain by Zombie'
-[02:15:01] [Server thread/INFO]: [misoparty: Set own game mode to Spectator Mode]
-[02:16:27] [Server thread/INFO]: [misoparty: Set own game mode to Survival Mode]
-[02:17:59] [Server thread/INFO]: misoparty lost connection: Disconnected
-[02:17:59] [Server thread/INFO]: misoparty left the game
-[02:41:17] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[02:41:17] [RCON Client /127.0.0.1 #2/INFO]: Thread RCON Client /127.0.0.1 shutting down
-[02:41:18] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[02:41:18] [RCON Client /127.0.0.1 #3/INFO]: Thread RCON Client /127.0.0.1 shutting down
-[04:25:40] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[04:25:40] [RCON Client /127.0.0.1 #4/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[15:15:18] [ServerMain/INFO]: Building unoptimized datafixer
+[15:15:19] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:15:22] [ServerMain/INFO]: Loaded 7 recipes
+[15:15:22] [ServerMain/INFO]: Loaded 1179 advancements
+[15:15:23] [ServerMain/WARN]: Failed to parse level-type default, defaulting to minecraft:normal
+[15:15:23] [Server thread/INFO]: Starting minecraft server version 1.19
+[15:15:23] [Server thread/INFO]: Loading properties
+[15:15:23] [Server thread/INFO]: Default game type: SURVIVAL
+[15:15:23] [Server thread/INFO]: Generating keypair
+[15:15:23] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:15:23] [Server thread/INFO]: Using epoll channel type
+[15:15:24] [Server thread/INFO]: Preparing level "world"
+[15:15:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:15:36] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:15:36] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:15:36] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:15:36] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:15:36] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:15:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:15:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:15:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:15:36] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:15:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:15:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:15:36] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:15:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:15:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:15:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:15:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:15:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:15:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:15:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:15:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:15:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:15:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:15:36] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:15:36] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:15:36] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:15:36] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[15:15:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:15:37] [Worker-Main-1/INFO]: Preparing spawn area: 9%
+[15:15:38] [Worker-Main-1/INFO]: Preparing spawn area: 26%
+[15:15:39] [Server thread/INFO]: Time elapsed: 15473 ms
+[15:15:39] [Server thread/INFO]: Done (15.859s)! For help, type "help"
+[15:15:39] [Server thread/INFO]: Starting remote control listener
+[15:15:39] [Server thread/INFO]: Thread RCON Listener started
+[15:15:39] [Server thread/INFO]: RCON running on 0.0.0.0:25575
+[15:16:35] [User Authenticator #1/INFO]: UUID of player Amalick_Yoaz is d3593391-fda2-4cff-bf36-546385bd1ddc
+[15:16:36] [Server thread/INFO]: Amalick_Yoaz[/98.116.188.27:64041] logged in with entity id 485 at (64.30000001192093, 14.0, 227.15691993213528)
+[15:16:36] [Server thread/INFO]: Amalick_Yoaz joined the game
+[15:16:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3148ms or 62 ticks behind
+[15:17:12] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[15:17:12] [RCON Client /127.0.0.1 #2/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[15:23:28] [Server thread/INFO]: Amalick_Yoaz lost connection: Disconnected
+[15:23:28] [Server thread/INFO]: Amalick_Yoaz left the game
