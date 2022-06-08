@@ -1,250 +1,220 @@
-[21:36:22] [ServerMain/INFO]: Building unoptimized datafixer
-[21:36:24] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[21:36:26] [ServerMain/INFO]: Loaded 7 recipes
-[21:36:26] [ServerMain/INFO]: Loaded 1179 advancements
-[21:36:27] [ServerMain/WARN]: Failed to parse level-type default, defaulting to minecraft:normal
-[21:36:27] [Server thread/INFO]: Starting minecraft server version 1.19
-[21:36:27] [Server thread/INFO]: Loading properties
-[21:36:27] [Server thread/INFO]: Default game type: SURVIVAL
-[21:36:27] [Server thread/INFO]: Generating keypair
-[21:36:28] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:36:28] [Server thread/INFO]: Using epoll channel type
-[21:36:28] [Server thread/INFO]: Preparing level "world"
-[21:36:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:36:35] [User Authenticator #1/INFO]: UUID of player Amalick_Yoaz is d3593391-fda2-4cff-bf36-546385bd1ddc
-[21:36:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:36:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:36:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:36:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:36:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:36:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:36:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:36:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:36:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:36:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:36:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:36:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:36:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:36:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:36:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:36:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:36:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:36:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:36:37] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:36:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:36:38] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[21:36:39] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[21:36:39] [Worker-Main-1/INFO]: Preparing spawn area: 27%
-[21:36:40] [Worker-Main-1/INFO]: Preparing spawn area: 51%
-[21:36:40] [Server thread/INFO]: Time elapsed: 12106 ms
-[21:36:40] [Server thread/INFO]: Done (12.482s)! For help, type "help"
-[21:36:40] [Server thread/INFO]: Starting remote control listener
-[21:36:40] [Server thread/INFO]: Thread RCON Listener started
-[21:36:40] [Server thread/INFO]: RCON running on 0.0.0.0:25575
-[21:36:41] [Server thread/INFO]: Amalick_Yoaz[/98.116.188.27:54855] logged in with entity id 298 at (64.30000001192093, 14.0, 227.15691993213528)
-[21:36:41] [Server thread/INFO]: Amalick_Yoaz joined the game
-[21:36:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3258ms or 65 ticks behind
-[21:36:57] [Server thread/INFO]: Amalick_Yoaz lost connection: Disconnected
-[21:36:57] [Server thread/INFO]: Amalick_Yoaz left the game
-[21:37:10] [User Authenticator #2/INFO]: UUID of player Amalick_Yoaz is d3593391-fda2-4cff-bf36-546385bd1ddc
-[21:37:11] [Server thread/INFO]: Amalick_Yoaz[/98.116.188.27:54881] logged in with entity id 659 at (64.74752843072432, 14.0, 226.8192893986159)
-[21:37:11] [Server thread/INFO]: Amalick_Yoaz joined the game
-[21:37:15] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[21:37:15] [RCON Client /127.0.0.1 #2/INFO]: Thread RCON Client /127.0.0.1 shutting down
-[21:37:18] [User Authenticator #3/INFO]: UUID of player misoparty is ce7c60a7-6b0d-442e-92b2-f021bf3ec701
-[21:37:18] [Server thread/INFO]: misoparty[/131.231.105.144:61472] logged in with entity id 863 at (-57.019793815936424, 64.0, 144.46621941099227)
-[21:37:18] [Server thread/INFO]: misoparty joined the game
-[21:37:18] [Server thread/INFO]: misoparty has reached the goal [Sky's the Limit]
-[21:37:19] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[21:37:19] [RCON Client /127.0.0.1 #3/INFO]: Thread RCON Client /127.0.0.1 shutting down
-[21:37:32] [Server thread/INFO]: <Amalick_Yoaz> oh what
-[21:37:41] [Server thread/INFO]: <Amalick_Yoaz> do u still have no inv
-[21:37:45] [Server thread/INFO]: <Amalick_Yoaz> oh
-[21:37:55] [Server thread/INFO]: <misoparty> i have
-[21:37:55] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[21:37:55] [Server thread/INFO]: [Rcon: Teleported Amalick_Yoaz to misoparty]
-[21:37:55] [RCON Client /127.0.0.1 #4/INFO]: Thread RCON Client /127.0.0.1 shutting down
-[21:38:05] [Server thread/INFO]: <Amalick_Yoaz> world
-[21:38:06] [Server thread/INFO]: <Amalick_Yoaz> word
-[21:38:10] [Server thread/INFO]: <misoparty> but
-[21:38:13] [Server thread/INFO]: <misoparty> lost achievements
-[21:38:20] [Server thread/INFO]: <Amalick_Yoaz> yeah idk how it works
-[21:38:24] [Server thread/INFO]: <misoparty> whatever
-[21:38:25] [Server thread/INFO]: <Amalick_Yoaz> i just copy pasted old
-[21:38:27] [Server thread/INFO]: <misoparty> doesn't matter anyway
-[21:38:41] [Server thread/INFO]: <misoparty> finished my base
-[21:39:00] [Server thread/INFO]: <Amalick_Yoaz> holy mol
-[21:39:55] [Server thread/INFO]: <misoparty> took me so long
-[21:40:02] [Server thread/INFO]: <misoparty> but so worth
-[21:40:05] [Server thread/INFO]: <Amalick_Yoaz> what is this
-[21:40:10] [Server thread/INFO]: <misoparty> turtle egg
-[21:40:14] [Server thread/INFO]: <Amalick_Yoaz> does it hatch
-[21:40:21] [Server thread/INFO]: <misoparty> not if its near sand
-[21:40:22] [Server thread/INFO]: <misoparty> or
-[21:40:25] [Server thread/INFO]: <misoparty> idk
-[21:40:34] [Server thread/INFO]: <misoparty> maybe turtle has to be on top of it
-[21:40:49] [Server thread/INFO]: <Amalick_Yoaz> need dolphin in aquarium
-[21:40:50] [Server thread/INFO]: <misoparty> i got them a while ago in case we were gonna make a gold farm
-[21:41:00] [Server thread/INFO]: <misoparty> true
-[21:41:05] [Server thread/INFO]: <misoparty> but cant get them in a bucket
-[21:41:05] [Server thread/INFO]: <Amalick_Yoaz> what kinda fish this
-[21:41:09] [Server thread/INFO]: <misoparty> axolotl
-[21:41:21] [Server thread/INFO]: <misoparty> are you still using optifine
-[21:41:21] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[21:41:21] [RCON Client /127.0.0.1 #5/INFO]: Thread RCON Client /127.0.0.1 shutting down
-[21:41:27] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[21:41:27] [RCON Client /127.0.0.1 #6/INFO]: Thread RCON Client /127.0.0.1 shutting down
-[21:41:41] [Server thread/INFO]: <Amalick_Yoaz> nah didn't install yet
-[21:41:51] [Server thread/INFO]: <misoparty> they dont have for 1.19 yet
-[21:42:13] [Server thread/INFO]: <Amalick_Yoaz> oh
-[21:42:17] [Server thread/INFO]: <misoparty> this base was giga aids to build
-[21:42:23] [Server thread/INFO]: <misoparty> cus i built it in a cave
-[21:42:28] [Server thread/INFO]: <Amalick_Yoaz> oh wtf
-[21:42:46] [Server thread/INFO]: <Amalick_Yoaz> can u
-[21:42:47] [Server thread/INFO]: [misoparty: Set Amalick_Yoaz's game mode to Spectator Mode]
-[21:42:51] [Server thread/INFO]: <Amalick_Yoaz> elytra with a leash
-[21:42:51] [Server thread/INFO]: <misoparty> look around
-[21:43:05] [Server thread/INFO]: <Amalick_Yoaz> what the
-[21:43:11] [Server thread/INFO]: [misoparty: Set own game mode to Spectator Mode]
-[21:43:17] [Server thread/INFO]: <Amalick_Yoaz> jeez
-[21:43:32] [Server thread/INFO]: <misoparty> took so much extra effort for no reason
-[21:43:33] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[21:43:33] [RCON Client /127.0.0.1 #7/INFO]: Thread RCON Client /127.0.0.1 shutting down
-[21:43:38] [Server thread/INFO]: <misoparty> could have just built it somewhere else
-[21:43:49] [Server thread/INFO]: <misoparty> but i already made that entrance thing so i didn't want to move it
-[21:43:59] [Server thread/INFO]: <Amalick_Yoaz> what is coral reef
-[21:44:01] [Server thread/INFO]: [misoparty: Set Amalick_Yoaz's game mode to Survival Mode]
-[21:44:04] [Server thread/INFO]: <Amalick_Yoaz> in biomes
-[21:44:06] [Server thread/INFO]: [misoparty: Set own game mode to Survival Mode]
-[21:44:09] [Server thread/INFO]: <misoparty> warm ocean
-[21:44:21] [Server thread/INFO]: <Amalick_Yoaz> how do u get out
-[21:44:21] [Server thread/INFO]: <misoparty> what do u need coral for
-[21:44:49] [Server thread/INFO]: <Amalick_Yoaz> aite gonna try to cop dolphins
-[21:44:51] [Server thread/INFO]: <Amalick_Yoaz> and fly them
-[21:44:58] [Server thread/INFO]: <misoparty> lol kk
-[21:45:10] [Server thread/INFO]: <misoparty> idk if its gonna work
-[21:45:51] [Server thread/INFO]: <Amalick_Yoaz> where are leads
-[21:45:56] [Server thread/INFO]: <Amalick_Yoaz> ok found one
-[21:46:03] [Server thread/INFO]: <misoparty> idk should be in the big chest area
-[21:46:53] [Server thread/WARN]: Amalick_Yoaz moved too quickly! 16.695374757307547,-1.0263787028106037,6.406585002868951
-[21:46:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2799ms or 55 ticks behind
-[21:46:54] [Server thread/WARN]: Amalick_Yoaz moved too quickly! 16.73981772535069,-2.6570942244775324,4.706349807418519
-[21:46:57] [Server thread/WARN]: Amalick_Yoaz moved too quickly! 16.606108564553097,-2.287108646831399,6.372316493363087
-[21:47:01] [Server thread/WARN]: Amalick_Yoaz moved wrongly!
-[21:47:09] [Server thread/WARN]: Amalick_Yoaz moved too quickly! 4.905790301654406,9.800847275677512,13.899136867433526
-[21:47:15] [Server thread/WARN]: Amalick_Yoaz moved too quickly! 5.788719204790368,6.415309301175398,15.565963019566084
-[21:47:16] [Server thread/WARN]: Amalick_Yoaz moved too quickly! 6.875068857075007,-1.7889058324900589,17.029136183269202
-[21:47:18] [Server thread/WARN]: Amalick_Yoaz moved too quickly! 6.778189846055739,-1.6654423332524857,16.767268966915935
-[21:47:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13669ms or 273 ticks behind
-[21:47:30] [Server thread/WARN]: Amalick_Yoaz moved too quickly! -1.6643955605811698,-1.7647211171273796,17.95115442426379
-[21:47:36] [Server thread/WARN]: Amalick_Yoaz moved too quickly! -0.5751835546894881,-0.44774607083010665,17.379684145503006
-[21:47:43] [Server thread/WARN]: Amalick_Yoaz moved too quickly! -0.5755441380989623,-0.3901831758370804,17.394013928849745
-[21:47:51] [Server thread/WARN]: Amalick_Yoaz moved too quickly! 0.25966867336535415,-0.8290727575796382,17.586060327848145
-[21:47:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14774ms or 295 ticks behind
-[21:47:52] [Server thread/WARN]: Amalick_Yoaz moved too quickly! 0.25818040394028685,-0.4030748788788969,17.48573044677778
-[21:48:07] [Server thread/WARN]: Amalick_Yoaz moved too quickly! 5.766927129964188,-1.968505267966293,17.004586740448076
-[21:48:13] [Server thread/WARN]: Amalick_Yoaz moved too quickly! 11.145003482684615,-1.6731922182278254,14.121211164828992
-[21:48:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9996ms or 199 ticks behind
-[21:48:20] [Server thread/WARN]: Amalick_Yoaz moved too quickly! 12.184367694567186,-3.2363728333751,12.260620277633734
-[21:48:25] [Server thread/WARN]: Amalick_Yoaz moved too quickly! 14.300249531838858,-3.880038160548878,9.94059049085422
-[21:48:28] [Server thread/WARN]: Amalick_Yoaz moved too quickly! 15.364885416975085,-3.3753820600256574,10.674071050671728
-[21:48:32] [Server thread/WARN]: Amalick_Yoaz moved too quickly! 15.413153301513375,-5.214307230578271,8.901175254677355
-[21:48:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8157ms or 163 ticks behind
-[21:50:15] [Server thread/INFO]: misoparty has made the advancement [Monster Hunter]
-[21:50:15] [Server thread/INFO]: misoparty has made the advancement [Take Aim]
-[21:50:54] [Server thread/INFO]: <misoparty> o no
-[21:50:56] [Server thread/INFO]: <misoparty> all the maps reset
-[21:51:04] [Server thread/INFO]: <Amalick_Yoaz> fuck
-[21:51:07] [Server thread/INFO]: <misoparty> well
-[21:51:09] [Server thread/INFO]: <misoparty> theyre gone
-[21:51:13] [Server thread/INFO]: <misoparty> not reset
-[21:51:35] [Server thread/INFO]: misoparty has reached the goal [Zombie Doctor]
-[21:51:50] [Server thread/INFO]: <misoparty> busted
-[21:51:52] [Server thread/WARN]: Amalick_Yoaz moved wrongly!
-[21:52:01] [Server thread/INFO]: <Amalick_Yoaz> what u do
-[21:52:06] [Server thread/INFO]: <misoparty> 1 emerald for sharpness 5
-[21:52:09] [Server thread/INFO]: <Amalick_Yoaz> bustfd
-[21:52:32] [Server thread/INFO]: misoparty has made the advancement [Acquire Hardware]
-[21:52:42] [Server thread/WARN]: misoparty moved too quickly! 7.761703760930118,-0.7347601330709637,6.411794917755159
-[21:55:16] [Server thread/INFO]: <Amalick_Yoaz> whwree tf r dolkphin
-[21:55:39] [Server thread/INFO]: <misoparty> anywhere
-[21:55:42] [Server thread/INFO]: <Amalick_Yoaz> ok copped
-[21:55:57] [Server thread/INFO]: <misoparty> a few spawned at raid farm
-[21:55:59] [Server thread/INFO]: <Amalick_Yoaz> oh lead broke
-[21:56:41] [Server thread/INFO]: <misoparty> wait nah
-[21:56:43] [Server thread/INFO]: <misoparty> nah
-[21:56:43] [Server thread/INFO]: <misoparty> nah
-[21:56:44] [Server thread/INFO]: <misoparty> nah
-[21:56:55] [Server thread/INFO]: <misoparty> o its fucked
-[21:57:01] [Server thread/INFO]: <misoparty> our raid farm is gone
-[21:57:04] [Server thread/INFO]: <misoparty> hehe xd
-[21:58:00] [Server thread/INFO]: <misoparty> o no
-[21:58:02] [Server thread/INFO]: <misoparty> also
-[21:58:04] [Server thread/INFO]: <misoparty> bens house
-[21:58:05] [Server thread/INFO]: <misoparty> gone
-[21:59:01] [Server thread/INFO]: misoparty has made the advancement [We Need to Go Deeper]
-[21:59:32] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[21:59:32] [Server thread/INFO]: [Rcon: Teleported Amalick_Yoaz to 0.500000, 67.000000, 0.500000]
-[21:59:32] [RCON Client /127.0.0.1 #8/INFO]: Thread RCON Client /127.0.0.1 shutting down
-[22:01:07] [Server thread/INFO]: <misoparty> yea the worlds fucked
-[22:01:10] [Server thread/INFO]: <Amalick_Yoaz> wym
-[22:01:14] [Server thread/INFO]: <Amalick_Yoaz> oh what
-[22:01:15] [Server thread/INFO]: <misoparty> bens house is gone
-[22:01:15] [Server thread/INFO]: <Amalick_Yoaz> oh fuck
-[22:01:18] [Server thread/INFO]: <misoparty> so is the raid farm
-[22:01:30] [Server thread/INFO]: <misoparty> so is the railroad going to the stronghold
-[22:01:36] [Server thread/INFO]: <Amalick_Yoaz> fuhHHH
-[22:02:21] [Server thread/INFO]: <misoparty> how do u even fix this
-[22:02:40] [Server thread/INFO]: <Amalick_Yoaz> worldedit
-[22:02:47] [Server thread/INFO]: <misoparty> yea
-[22:02:49] [Server thread/INFO]: <misoparty> can
-[22:03:02] [Server thread/INFO]: <Amalick_Yoaz> yeah ill probs do that l8er
-[22:03:03] [Server thread/INFO]: <Amalick_Yoaz> brb
-[22:03:05] [Server thread/INFO]: <misoparty> damn thats actually fucked
-[22:03:05] [Server thread/INFO]: Amalick_Yoaz lost connection: Disconnected
-[22:03:05] [Server thread/INFO]: Amalick_Yoaz left the game
-[22:03:06] [Server thread/INFO]: <misoparty> ok
-[22:03:52] [Server thread/INFO]: misoparty has made the advancement [Sweet Dreams]
-[22:14:52] [User Authenticator #4/INFO]: UUID of player Amalick_Yoaz is d3593391-fda2-4cff-bf36-546385bd1ddc
-[22:14:53] [Server thread/INFO]: Amalick_Yoaz[/98.116.188.27:57220] logged in with entity id 19882 at (-208.1338262910582, 62.073264324665075, -581.0205852309554)
-[22:14:53] [Server thread/INFO]: Amalick_Yoaz joined the game
-[22:14:54] [Server thread/WARN]: misoparty moved too quickly! -17.661429660777074,-2.904253728520814,2.6041970046403833
-[22:14:59] [Server thread/INFO]: Amalick_Yoaz lost connection: Disconnected
-[22:14:59] [Server thread/INFO]: Amalick_Yoaz left the game
-[22:16:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2557ms or 51 ticks behind
-[22:16:55] [Server thread/WARN]: misoparty moved too quickly! -0.46426233098976155,-4.693666835133996,18.854890672819238
-[22:17:13] [Server thread/WARN]: misoparty moved wrongly!
-[22:18:05] [Server thread/INFO]: misoparty has made the advancement [Eye Spy]
-[22:18:24] [Server thread/INFO]: [misoparty: Set own game mode to Spectator Mode]
-[22:19:46] [Server thread/INFO]: [misoparty: Set own game mode to Survival Mode]
-[22:20:15] [Server thread/INFO]: [misoparty: Gave 11 [Eye of Ender] to misoparty]
-[22:20:26] [Server thread/INFO]: misoparty has made the advancement [The End?]
-[22:20:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2941ms or 58 ticks behind
-[22:21:39] [Server thread/INFO]: misoparty blew up
-[22:22:07] [Server thread/INFO]: [misoparty: Teleported misoparty to 16.500000, 27.000000, 2608.500000]
-[22:22:17] [Server thread/INFO]: [misoparty: Set own game mode to Creative Mode]
-[22:22:24] [Server thread/INFO]: [misoparty: Set own game mode to Spectator Mode]
-[22:22:34] [Server thread/INFO]: [misoparty: Set own game mode to Creative Mode]
-[22:22:36] [Server thread/WARN]: misoparty moved too quickly! 142.2466123572449,21.444459409044622,-2602.3865196591833
-[22:22:57] [Server thread/INFO]: [misoparty: Set own game mode to Survival Mode]
-[22:23:05] [Server thread/INFO]: [misoparty: Set own game mode to Spectator Mode]
-[22:23:13] [Server thread/INFO]: [misoparty: Set own game mode to Survival Mode]
-[22:27:31] [Server thread/INFO]: [misoparty: Teleported misoparty to 0.500000, 100.000000, 0.500000]
-[22:28:01] [Server thread/INFO]: misoparty lost connection: Disconnected
-[22:28:01] [Server thread/INFO]: misoparty left the game
-[22:46:46] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
-[22:46:46] [RCON Client /127.0.0.1 #9/INFO]: Thread RCON Client /127.0.0.1 shutting down
-[22:46:49] [RCON Listener #1/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 started
-[22:46:49] [Server thread/INFO]: [Rcon: Stopping the server]
-[22:46:49] [RCON Client /0:0:0:0:0:0:0:1 #10/INFO]: Thread RCON Client /0:0:0:0:0:0:0:1 shutting down
-[22:46:49] [Server thread/INFO]: Stopping server
-[22:46:49] [Server thread/INFO]: Saving players
-[22:46:49] [Server thread/INFO]: Saving worlds
-[22:46:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[22:46:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[22:46:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[22:46:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:46:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:46:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:46:51] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[22:46:51] [Server thread/INFO]: Thread RCON Listener stopped
+[23:18:44] [ServerMain/INFO]: Building unoptimized datafixer
+[23:18:46] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[23:18:46] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[23:18:48] [ServerMain/INFO]: Loaded 7 recipes
+[23:18:50] [Server thread/INFO]: Starting minecraft server version 1.19
+[23:18:50] [Server thread/INFO]: Loading properties
+[23:18:50] [Server thread/INFO]: This server is running CraftBukkit version 3508-Spigot-fa893f0-50ef122 (MC: 1.19) (Implementing API version 1.19-R0.1-SNAPSHOT)
+[23:18:50] [Server thread/INFO]: Debug logging is disabled
+[23:18:50] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[23:18:50] [Server thread/INFO]: Using 4 threads for Netty based IO
+[23:18:50] [Server thread/INFO]: Default game type: SURVIVAL
+[23:18:50] [Server thread/INFO]: Generating keypair
+[23:18:51] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:18:51] [Server thread/INFO]: Using epoll channel type
+[23:18:51] [Server thread/INFO]: Preparing level "world"
+[23:18:51] [Server thread/INFO]: -------- World Settings For [world] --------
+[23:18:51] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[23:18:51] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[23:18:51] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[23:18:51] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[23:18:51] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[23:18:51] [Server thread/INFO]: Cane Growth Modifier: 100%
+[23:18:51] [Server thread/INFO]: Melon Growth Modifier: 100%
+[23:18:51] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[23:18:51] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[23:18:51] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[23:18:51] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[23:18:51] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[23:18:51] [Server thread/INFO]: Potato Growth Modifier: 100%
+[23:18:51] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[23:18:51] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[23:18:51] [Server thread/INFO]: Vine Growth Modifier: 100%
+[23:18:51] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[23:18:51] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[23:18:51] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[23:18:51] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[23:18:51] [Server thread/INFO]: Experience Merge Radius: 3.0
+[23:18:51] [Server thread/INFO]: Mob Spawn Range: 6
+[23:18:51] [Server thread/INFO]: Max TNT Explosions: 100
+[23:18:51] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[23:18:51] [Server thread/INFO]: Item Despawn Rate: 6000
+[23:18:51] [Server thread/INFO]: Item Merge Radius: 2.5
+[23:18:51] [Server thread/INFO]: View Distance: 10
+[23:18:51] [Server thread/INFO]: Simulation Distance: 10
+[23:18:51] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[23:18:51] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[23:18:51] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[23:18:51] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[23:18:52] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[23:18:52] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[23:18:52] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[23:18:52] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[23:18:52] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[23:18:52] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[23:18:52] [Server thread/INFO]: Cane Growth Modifier: 100%
+[23:18:52] [Server thread/INFO]: Melon Growth Modifier: 100%
+[23:18:52] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[23:18:52] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[23:18:52] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[23:18:52] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[23:18:52] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[23:18:52] [Server thread/INFO]: Potato Growth Modifier: 100%
+[23:18:52] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[23:18:52] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[23:18:52] [Server thread/INFO]: Vine Growth Modifier: 100%
+[23:18:52] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[23:18:52] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[23:18:52] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[23:18:52] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[23:18:52] [Server thread/INFO]: Experience Merge Radius: 3.0
+[23:18:52] [Server thread/INFO]: Mob Spawn Range: 6
+[23:18:52] [Server thread/INFO]: Max TNT Explosions: 100
+[23:18:52] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[23:18:52] [Server thread/INFO]: Item Despawn Rate: 6000
+[23:18:52] [Server thread/INFO]: Item Merge Radius: 2.5
+[23:18:52] [Server thread/INFO]: View Distance: 10
+[23:18:52] [Server thread/INFO]: Simulation Distance: 10
+[23:18:52] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[23:18:52] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[23:18:52] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[23:18:52] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[23:18:52] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[23:18:52] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[23:18:52] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[23:18:52] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[23:18:52] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[23:18:52] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[23:18:52] [Server thread/INFO]: Cane Growth Modifier: 100%
+[23:18:52] [Server thread/INFO]: Melon Growth Modifier: 100%
+[23:18:52] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[23:18:52] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[23:18:52] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[23:18:52] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[23:18:52] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[23:18:52] [Server thread/INFO]: Potato Growth Modifier: 100%
+[23:18:52] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[23:18:52] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[23:18:52] [Server thread/INFO]: Vine Growth Modifier: 100%
+[23:18:52] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[23:18:52] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[23:18:52] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[23:18:52] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[23:18:52] [Server thread/INFO]: Experience Merge Radius: 3.0
+[23:18:52] [Server thread/INFO]: Mob Spawn Range: 6
+[23:18:52] [Server thread/INFO]: Max TNT Explosions: 100
+[23:18:52] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[23:18:52] [Server thread/INFO]: Item Despawn Rate: 6000
+[23:18:52] [Server thread/INFO]: Item Merge Radius: 2.5
+[23:18:52] [Server thread/INFO]: View Distance: 10
+[23:18:52] [Server thread/INFO]: Simulation Distance: 10
+[23:18:52] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[23:18:52] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[23:18:52] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[23:18:52] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[23:18:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:18:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:18:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:18:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:18:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:18:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:18:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:18:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:18:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:18:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:18:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:19:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:19:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:19:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:19:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:19:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:19:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:19:00] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:19:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:19:01] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:19:02] [Worker-Main-2/INFO]: Preparing spawn area: 1%
+[23:19:02] [Worker-Main-1/INFO]: Preparing spawn area: 1%
+[23:19:03] [Worker-Main-2/INFO]: Preparing spawn area: 7%
+[23:19:03] [Worker-Main-2/INFO]: Preparing spawn area: 14%
+[23:19:04] [Worker-Main-1/INFO]: Preparing spawn area: 14%
+[23:19:05] [Server thread/INFO]: Time elapsed: 13099 ms
+[23:19:05] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[23:19:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:19:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:19:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:19:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:19:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:19:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:19:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:19:09] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:19:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:19:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:19:10] [Worker-Main-1/INFO]: Preparing spawn area: 4%
+[23:19:11] [Worker-Main-1/INFO]: Preparing spawn area: 17%
+[23:19:11] [Worker-Main-2/INFO]: Preparing spawn area: 69%
+[23:19:12] [Server thread/INFO]: Time elapsed: 6508 ms
+[23:19:12] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[23:19:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:19:13] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[23:19:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:19:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:19:14] [Worker-Main-1/INFO]: Preparing spawn area: 20%
+[23:19:14] [Worker-Main-2/INFO]: Preparing spawn area: 37%
+[23:19:15] [Server thread/INFO]: Time elapsed: 2931 ms
+[23:19:15] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[23:19:15] [Server thread/INFO]: Done (23.789s)! For help, type "help"
+[23:19:15] [Server thread/INFO]: Starting remote control listener
+[23:19:15] [Server thread/INFO]: Thread RCON Listener started
+[23:19:15] [Server thread/INFO]: RCON running on 0.0.0.0:25575
+[23:19:15] [Server thread/ERROR]: Error loading saved data: map_1
+java.io.EOFException: Unexpected end of ZLIB input stream
+	at java.util.zip.InflaterInputStream.fill(InflaterInputStream.java:244) ~[?:?]
+	at java.util.zip.InflaterInputStream.read(InflaterInputStream.java:158) ~[?:?]
+	at java.util.zip.GZIPInputStream.read(GZIPInputStream.java:117) ~[?:?]
+	at net.minecraft.util.FastBufferedInputStream.b(SourceFile:94) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3508-Spigot-fa893f0-50ef122]
+	at net.minecraft.util.FastBufferedInputStream.read(SourceFile:32) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3508-Spigot-fa893f0-50ef122]
+	at java.io.DataInputStream.readByte(DataInputStream.java:271) ~[?:?]
+	at net.minecraft.nbt.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:285) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3508-Spigot-fa893f0-50ef122]
+	at net.minecraft.nbt.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:238) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3508-Spigot-fa893f0-50ef122]
+	at net.minecraft.nbt.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:58) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3508-Spigot-fa893f0-50ef122]
+	at net.minecraft.world.level.storage.WorldPersistentData.a(SourceFile:92) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3508-Spigot-fa893f0-50ef122]
+	at net.minecraft.world.level.storage.WorldPersistentData.b(SourceFile:71) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3508-Spigot-fa893f0-50ef122]
+	at net.minecraft.world.level.storage.WorldPersistentData.a(SourceFile:59) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3508-Spigot-fa893f0-50ef122]
+	at net.minecraft.server.level.WorldServer.a(WorldServer.java:1480) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3508-Spigot-fa893f0-50ef122]
+	at net.minecraft.world.item.ItemWorldMap.a(ItemWorldMap.java:61) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3508-Spigot-fa893f0-50ef122]
+	at net.minecraft.server.level.EntityTrackerEntry.a(EntityTrackerEntry.java:106) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3508-Spigot-fa893f0-50ef122]
+	at net.minecraft.server.level.PlayerChunkMap.k(PlayerChunkMap.java:1368) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3508-Spigot-fa893f0-50ef122]
+	at net.minecraft.server.level.ChunkProviderServer.s(ChunkProviderServer.java:468) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3508-Spigot-fa893f0-50ef122]
+	at net.minecraft.server.level.ChunkProviderServer.a(ChunkProviderServer.java:385) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3508-Spigot-fa893f0-50ef122]
+	at net.minecraft.server.level.WorldServer.a(WorldServer.java:374) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3508-Spigot-fa893f0-50ef122]
+	at net.minecraft.server.MinecraftServer.b(MinecraftServer.java:1290) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3508-Spigot-fa893f0-50ef122]
+	at net.minecraft.server.dedicated.DedicatedServer.b(DedicatedServer.java:394) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3508-Spigot-fa893f0-50ef122]
+	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:1197) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3508-Spigot-fa893f0-50ef122]
+	at net.minecraft.server.MinecraftServer.v(MinecraftServer.java:1010) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3508-Spigot-fa893f0-50ef122]
+	at net.minecraft.server.MinecraftServer.lambda$0(MinecraftServer.java:291) ~[spigot-1.19-R0.1-SNAPSHOT.jar:3508-Spigot-fa893f0-50ef122]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+[23:19:16] [User Authenticator #1/INFO]: UUID of player Amalick_Yoaz is d3593391-fda2-4cff-bf36-546385bd1ddc
+[23:19:16] [Server thread/INFO]: Amalick_Yoaz joined the game
+[23:19:16] [Server thread/INFO]: Amalick_Yoaz[/98.116.188.27:59570] logged in with entity id 772 at ([world]-242.81124115307125, 137.8933024227859, -445.7125793367582)
+[23:19:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5031ms or 100 ticks behind
+[23:19:40] [Server thread/WARN]: UUID of added entity already exists: EntityPig['Pig'/1108, l='ServerLevel[world]', x=-129.45, y=57.00, z=-176.26]
+[23:23:34] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[23:23:34] [RCON Client /127.0.0.1 #2/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[23:23:39] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[23:23:39] [RCON Client /127.0.0.1 #3/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[23:23:46] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[23:23:46] [RCON Client /127.0.0.1 #4/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[23:23:49] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[23:23:49] [RCON Client /127.0.0.1 #5/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[23:24:16] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[23:24:16] [RCON Client /127.0.0.1 #6/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[23:24:17] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[23:24:17] [RCON Client /127.0.0.1 #7/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[23:24:19] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[23:24:19] [RCON Client /127.0.0.1 #8/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[23:31:44] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[23:31:46] [Server thread/INFO]: <Rcon> hi
+[23:31:56] [RCON Client /127.0.0.1 #9/INFO]: Thread RCON Client /127.0.0.1 shutting down
+[23:33:05] [RCON Listener #1/INFO]: Thread RCON Client /127.0.0.1 started
+[23:33:05] [Server thread/INFO]: <Rcon> hi
+[23:33:05] [RCON Client /127.0.0.1 #10/INFO]: Thread RCON Client /127.0.0.1 shutting down
